@@ -110,6 +110,3 @@ After training for 50 epochs, the model successfully reconstructed the Fashion M
 
 This project demonstrates the effectiveness of **Sparse Autoencoders** in learning **compact, interpretable, and efficient representations** of image data. The model successfully reconstructs Fashion MNIST images from compressed latent vectors, proving the potential of sparse representations for unsupervised feature learning and dimensionality reduction in computer vision tasks.
 
-
-
-Would you like me to make this README **more visual and beginner-friendly** (with emojis, section dividers, and simplified text) or **more research-style** (technical, academic tone, fewer emojis)?
